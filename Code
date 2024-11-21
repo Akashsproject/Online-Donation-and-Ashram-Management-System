@@ -1,0 +1,236 @@
+HTML:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fund for Ashram</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<style>
+body {
+background-image: url('https://assets.change.org/photos/0/sm/iq/FPSMiQRZFXdHiYx-800x450-noPad.jpg?1600156071');
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+color: #ffffff; /* Text color for better readability on the background image */
+}
+
+.navbar {
+background-color: #001440;
+}
+
+.navbar a {
+color: #ffffff;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+color: #ffbb00;
+}
+
+.section {
+padding: 60px 0;
+text-align: center;
+}
+
+.section-heading {
+background-color: rgb(0 0 0 / 49%);
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+font-size: 50px;
+font-weight: bold;
+margin-bottom: 30px;
+}
+
+.contact-heading {
+background-color: rgb(0 0 0 / 49%);
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+font-size: 30px;
+font-weight: bold;
+margin-bottom: 20px;
+}
+
+.contact-info {
+list-style-type: none;
+padding: 0;
+}
+
+.contact-info li {
+margin-bottom: 10px;
+}
+
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+}
+</style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<div class="container">
+<a class="navbar-brand" href="fund.html">LOTUS</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="navbar-nav ml-auto">
+<li class="nav-item">
+<a class="nav-link" href="#home">HOME</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#about">ABOUT US</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#gallery">GALLERY</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#contact">CONTACT US</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#fund">FUND</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+<!-- Home Section -->
+<div id="home" class="section">
+<div class="container">
+<h2 class="section-heading">Lotus Ashram</h2>
+<p>At the Lotus Ashram, our mission is rooted in compassion, care, and the unwavering belief in the potential of every child. Established with a profound sense of responsibility towards orphaned and underprivileged children, our ashram stands as a beacon of hope and love.</p>
+</div>
+</div>
+
+<!-- About Us Section -->
+<div id="about" class="section">
+<div class="container">
+<h2 class="section-heading">About Us</h2>
+<p>At the Lotus Ashram, our mission is deeply entrenched in compassion, care, and an unwavering belief in the boundless potential that resides within every child. We were founded with a profound sense of responsibility towards orphaned and underprivileged children, recognizing that they are among the most vulnerable members of our society. 
+Our ashram serves as a radiant beacon of hope and love, illuminating the lives of these young souls with warmth and promise. In a world often marked by adversity and uncertainty, we stand as a steadfast symbol of hope. We embrace each child's unique story and circumstance, offering them not only shelter but also the promise of a brighter tomorrow. Our commitment extends beyond meeting their immediate needs; it encompasses the holistic growth and development of every child who finds refuge within our ashram's embrace.
+
+With love as our guiding principle, we strive to create an environment where trust, healing, and growth flourish. Together, with our compassionate caregivers, dedicated educators, and nurturing mentors, we instill in these children the belief that their dreams are achievable. Through education, emotional support, and the cultivation of moral values, we empower them to rise above their challenges and reach for the stars.
+
+Every day, we witness the transformative power of care and empathy as these resilient young hearts blossom into confident individuals, ready to make their mark on the world. The Eternal Orphan Ashram is more than an institution; it is a testament to the enduring spirit of compassion, and it stands as a testament to the belief that every child, regardless of their circumstances, deserves a life filled with love, opportunity, and endless possibilities.
+
+This expanded mission statement reflects the ashram's dedication to nurturing orphaned and underprivileged children and their journey toward a brighter future.</p>
+</div>
+</div>
+
+<!-- Gallery Section -->
+<div id="gallery" class="section">
+<div class="container">
+<h2 class="section-heading">Gallery</h2>
+<div class="row">
+<div class="col-md-4">
+<img src="https://kettocdn.gumlet.io/media/campaign/439000/439199/image/60c76582e0e6d.jpeg?w=400&dpr=2.6" alt="Image 1" class="center">
+</div>
+<div class="col-md-4">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgoFNU6OAdSoivnM-n46tH33TCLouY74gc1A&usqp=CAU" alt="Image 2" class="center">
+</div>
+<div class="col-md-4">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafZ9I5Q-AuOOHd2tifaeC9UdbOSG31XgIX-VTMdhWx6D8kroL4z4fMG0h5DDoJtnGX1o&usqp=CAU" alt="Image 3" class="center">
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Contact Us Section -->
+<div id="contact" class="section">
+<div class="container">
+<h2 class="contact-heading">Contact Us</h2>
+<ul class="contact-info">
+<li><strong>Address:</strong> 456 Lotus Street, Chengalpattu, India</li>
+<li><strong>Email:</strong> lotusashram020@gmail.com</li>
+<li><strong>Phone:</strong> 6392128539 , 044 22210408</li>
+</ul>
+</div>
+</div>
+
+<!-- Fund Section -->
+<div id="fund" class="section">
+<div class="container mt-5">
+<div class="row justify-content-center">
+<div class="col-md-8 form-container">
+<a class="nav-link" href="orphan.html"><h1 class="text-center mb-4">LOTUS ASHRAM</h1></a>
+<form action="process.php" method="POST">
+<!-- Person Info -->
+<h3>Person Info</h3>
+<div class="form-group">
+<label for="Name">Name:</label>
+<input type="text" class="form-control" id="Name" placeholder="Enter Name" required><br><br>
+<label for="mobile_number">Mobile Number:</label>
+<input type="text" name="mobile_number" required><br><br>
+<label for="email">Email:</label>
+<input type="email" id="email" name="email"><br><br>
+<label for="address">Full Address:</label>
+<textarea name="address" rows="4" required></textarea><br><br>
+<div class="form-row">
+<div class="form-group col-md-6">
+<label for="Visitdate">Visit Date:</label>
+<input type="date" class="form-control" id="Visitdate" required>
+</div>
+</div>
+<!-- Donation -->
+<div class="form-group">
+<label for="donationAmount">Donation Amount:</label>
+<input type="number" class="form-control" id="donationAmount" placeholder="Enter Donation Amount" required>
+</div><br><br>
+<!-- Submit Button -->
+<button type="submit" class="btn btn-primary">Submit</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+           
+PHP CODE:
+<?php
+// Database configuration
+$dbHost = "localhost";     // Change this to your database host
+$dbUsername = "root";      // Change this to your database username
+$dbPassword = "";  // Change this to your database password
+$dbName = "ashram"; // Change this to your database name
+
+// Create a database connection
+$conn = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);
+
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+
+// Process form submission
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $name = $_POST["Name"];
+    $mobileNumber = $_POST["mobile_number"];
+    $email = $_POST["email"];
+    $address = $_POST["address"];
+    $visitDate = $_POST["Visitdate"];
+    $donationAmount = $_POST["donationAmount"];
+
+    // Insert data into the database
+    $sql = "INSERT INTO your_table_name (name, mobile_number, email, address, visit_date, donation_amount) VALUES (?, ?, ?, ?, ?, ?)";
+    $stmt = $conn->prepare($sql);
+    $stmt->bind_param("ssssss", $name, $mobileNumber, $email, $address, $visitDate, $donationAmount);
+    
+    if ($stmt->execute()) {
+        echo "Donation successful! Thank you.";
+    } else {
+        echo "Error: " . $sql . "<br>" . $conn->error;
+    }
+
+    // Close the statement and database connection
+    $stmt->close();
+    $conn->close();
+}
+?>
